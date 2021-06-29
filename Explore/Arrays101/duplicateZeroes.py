@@ -10,4 +10,4 @@ def duplicateZeros(arr):
                 arr.pop()
             i += 1
 
-duplicateZeros([1,0,1,2,0,2,3])
+duplicateZeros([1,0,2,3,0,4,5,0])
