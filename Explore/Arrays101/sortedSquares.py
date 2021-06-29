@@ -1,7 +1,7 @@
 def sortedSquares(nums):
     newNums = []
     for i in nums:
-        square = i * i
+        square = i ** 2
         newNums.append(square)
     newNums.sort()
     return newNums
