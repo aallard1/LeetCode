@@ -3,3 +3,4 @@ def toLowerCase(s):
     return newS
 
 toLowerCase("LOVELY")
+

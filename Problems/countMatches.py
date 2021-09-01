@@ -11,3 +11,7 @@ def countMatches(items, ruleKey, ruleValue):
     return countMatches
 
 countMatches([["phone","blue","pixel"],["computer","silver","phone"],["phone","gold","iphone"]], ruleKey = "type", ruleValue = "phone")
+
+
+# Runtime: 381 ms, faster than 6.37% of Python3 online submissions for Count Items Matching a Rule.
+# Memory Usage: 20.5 MB, less than 89.13% of Python3 online submissions for Count Items Matching a Rule.

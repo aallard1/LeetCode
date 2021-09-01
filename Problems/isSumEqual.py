@@ -15,3 +15,7 @@ def isSumEqual(firstWord, secondWord, targetWord):
         return False
 
 print(isSumEqual("acb","cba","cdb"))
+
+
+# Runtime: 21 ms, faster than 95.99% of Python3 online submissions for Check if Word Equals Summation of Two Words.
+# Memory Usage: 14.1 MB, less than 80.87% of Python3 online submissions for Check if Word Equals Summation of Two Words.

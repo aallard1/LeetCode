@@ -11,3 +11,7 @@ def balancedStringSplit(s):
     return balanceCount
 
 balancedStringSplit("LLLLRRRR")
+
+
+# Runtime: 28 ms, faster than 84.25% of Python3 online submissions for Split a String in Balanced Strings.
+# Memory Usage: 14.3 MB, less than 10.84% of Python3 online submissions for Split a String in Balanced Strings.

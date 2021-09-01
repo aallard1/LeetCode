@@ -15,3 +15,7 @@ class Solution:
             if (candies[i] > max_value):
                 max_value = candies[i]         
         return max_value
+
+
+# Runtime: 49 ms, faster than 13.49% of Python3 online submissions for Kids With the Greatest Number of Candies.
+# Memory Usage: 14.3 MB, less than 22.20% of Python3 online submissions for Kids With the Greatest Number of Candies.

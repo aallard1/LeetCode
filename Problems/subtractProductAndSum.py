@@ -13,4 +13,8 @@ def subtractProductAndSum(n):
     diff = productn - sumn
     return diff
 
-subtractProductAndSum(78691)   
+subtractProductAndSum(78691)
+
+
+# Runtime: 32 ms, faster than 57.42% of Python3 online submissions for Subtract the Product and Sum of Digits of an Integer.
+# Memory Usage: 14.1 MB, less than 88.62% of Python3 online submissions for Subtract the Product and Sum of Digits of an Integer.

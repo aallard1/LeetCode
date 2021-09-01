@@ -11,6 +11,12 @@ def minOperations(boxes):
         answer.append(t)
     return answer
 
+minOperations("110")
+
+
+# Runtime: 4376 ms, faster than 33.88% of Python3 online submissions for Minimum Number of Operations to Move All Balls to Each Box.
+# Memory Usage: 14.4 MB, less than 91.36% of Python3 online submissions for Minimum Number of Operations to Move All Balls to Each Box.
+
     # stk = []
     # for i in range(0, len(boxes)):
     #     if boxes[i] =="1":
@@ -22,4 +28,5 @@ def minOperations(boxes):
     #         t += abs(stk[j]-i)
     #     ans.append(t)
     # return ans
-minOperations("110")
+
+# Did not work

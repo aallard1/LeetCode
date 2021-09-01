@@ -12,7 +12,10 @@ def twoSum(nums, target):
     return []
 
 print(twoSum([2,5,5,11], 10))
-# Time Limit Exceeded
+
+# Runtime: 60 ms, faster than 75.03% of Python3 online submissions for Two Sum.
+# Memory Usage: 15.3 MB, less than 54.26% of Python3 online submissions for Two Sum.
+
 
 # def twoSum(nums, target):
 #     potentialnum = []
@@ -35,3 +38,5 @@ print(twoSum([2,5,5,11], 10))
 #                         potentialnum.pop(1)
 #                     else:
 #                         potentialnum.pop(0)
+
+# Time Limit Exceeded

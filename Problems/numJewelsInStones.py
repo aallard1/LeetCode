@@ -6,3 +6,7 @@ def numJewelsInStones(jewels, stones):
     return count
 
 numJewelsInStones("aA", "aAAbbbb")
+
+
+# Runtime: 57 ms, faster than 5.51% of Python3 online submissions for Jewels and Stones.
+# Memory Usage: 14.2 MB, less than 46.25% of Python3 online submissions for Jewels and Stones.
